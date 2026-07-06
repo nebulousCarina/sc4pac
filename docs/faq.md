@@ -114,7 +114,7 @@ They are managed by you alone.
    Alternatively, simply create a new Profile and use **![](_widgets.svg)My Plugins** → *Export/Import* to transfer your plugins.
 
 2. The user's game directory in which the game looks for the Plugins folder (and Regions folder) can be changed by launching the game with the
-   `-UserDir:"..."` [launch parameter](https://wiki.sc4devotion.com/index.php?title=Shortcut_Parameters#User_Dir).
+   `-UserDir:"..."` [launch parameter](https://web.archive.org/web/20251024001955/https://wiki.sc4devotion.com/index.php?title=Shortcut_Parameters#User_Dir).
 
    <details>
    <summary>Detailed example</summary>
